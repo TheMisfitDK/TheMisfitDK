@@ -14,7 +14,7 @@
 
 ```yaml
 name: Deepak Kumar
-role: Computer Science Student
+role: Computer Science & Engineering Student
 university: Guru Nanak Dev University
 location: India
 currently_learning: Rust 🦀
@@ -25,7 +25,7 @@ career_paths:
 fun_fact: "Still deciding which rabbit hole to fall into deepest — so I'm digging all three."
 ```
 
-I'm a CS undergrad at **Guru Nanak Dev University**, exploring the intersection of **security, the web, and games**. I like understanding how systems break as much as how they're built — which is what's pulling me toward cybersecurity, while I keep sharpening my craft as a developer on the side.
+I'm a CSE undergrad at **Guru Nanak Dev University**, exploring the intersection of **security, the web, and games**. I like understanding how systems break as much as how they're built — which is what's pulling me toward cybersecurity, while I keep sharpening my craft as a developer on the side.
 
 - 🔭 Currently building small projects to strengthen my fundamentals across web dev and systems programming
 - 🌱 Currently learning **Rust** — chasing memory safety and performance
