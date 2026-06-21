@@ -22,7 +22,7 @@ Career_paths:
   - Cybersecurity Specialist 🛡️
   - Full-Stack Web Developer 🌐
   - Game Developer 🎮
-fun_fact: "Still deciding which rabbit hole to fall into deepest — so I'm digging all three."
+Fun_fact: "Still deciding which rabbit hole to fall into deepest — so I'm digging all three." 🥀
 ```
 
 I'm a CSE undergrad at **Guru Nanak Dev University**, exploring the intersection of **security, the web, and games**. I like understanding how systems break as much as how they're built — which is what's pulling me toward cybersecurity, while I keep sharpening my craft as a developer on the side.
