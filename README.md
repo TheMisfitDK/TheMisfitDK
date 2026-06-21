@@ -10,15 +10,15 @@
 
 <br/>
 
-## 👋 About Me
+## 👋 About Me!
 
 ```yaml
-name: Deepak Kumar
-role: Computer Science & Engineering Student
-university: Guru Nanak Dev University
-location: India
-currently_learning: Rust 🦀
-career_paths:
+Name: Deepak Kumar
+Role: Computer Science & Engineering Student
+University: Guru Nanak Dev University
+Location: India
+Currently_learning: Rust 🦀
+Career_paths:
   - Cybersecurity Specialist 🛡️
   - Full-Stack Web Developer 🌐
   - Game Developer 🎮
